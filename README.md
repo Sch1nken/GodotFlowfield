@@ -33,5 +33,7 @@ I'll try to provide a simple documentation sometime.
 From some experiments back then (I'll have to redo testing, but this is what I wrote down):
 
 Calculating a flowfield for an empty 30 by 40 cell map:
-GDScript ~6ms
-C++ (after optimization): 0.8-1ms
+
+GDScript ~6ms  
+
+C++ (after optimization): 0.8-1ms  
