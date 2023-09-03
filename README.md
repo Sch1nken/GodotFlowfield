@@ -17,14 +17,19 @@ Free here means:
 - Not blocking the remaining path for enemies
 - There is nothing else already built there
 
-https://cdn.masto.host/mastodongamedevplace/media_attachments/files/110/134/102/398/679/883/original/23d9074bd3c31bb8.mp4
+
+Uploading 23d9074bd3c31bb8.mp4…
+
 
 Second video is showing the updating of the flowfield in more detail:
 
-https://cdn.masto.host/mastodongamedevplace/media_attachments/files/110/113/019/350/180/454/original/b54615b764493cd4.mp4
+
+Uploading b54615b764493cd4.mp4…
+
 
 And here is a screenshot with "distance to target" shown:
 
-https://cdn.masto.host/mastodongamedevplace/media_attachments/files/110/125/954/378/696/175/original/45a618febb6c7950.png
+![Uploading 45a618febb6c7950.png…]()
+
 
 I'll try to provide a simple documentation sometime.
