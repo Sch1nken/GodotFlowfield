@@ -28,3 +28,10 @@ And here is a screenshot with "distance to target" shown:
 https://cdn.masto.host/mastodongamedevplace/media_attachments/files/110/125/954/378/696/175/original/45a618febb6c7950.png
 
 I'll try to provide a simple documentation sometime.
+
+# Stats
+From some experiments back then (I'll have to redo testing, but this is what I wrote down):
+
+Calculating a flowfield for an empty 30 by 40 cell map:
+GDScript ~6ms
+C++ (after optimization): 0.8-1ms
